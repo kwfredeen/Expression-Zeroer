@@ -3,5 +3,7 @@ Quickly changes a Google Sheets expression into one where if the expression is l
 
 Basically, it changes `=expr` to `=IF(expr < 0, 0, expr)`
 
-## Planned Features
-Console Interface
+## Use
+1. Run the Zeroer.py file
+2. Follow the instructions
+3. Copy resulting formula
